@@ -1,0 +1,1 @@
+web: gunicorn blogstar-2022.wsgi
